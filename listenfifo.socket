@@ -1,0 +1,6 @@
+[Socket]
+ListenFIFO=/tmp/listenfifo
+
+[Install]
+WantedBy=sockets.target
+

@@ -1,0 +1,6 @@
+[Unit]
+Description=Listen special
+
+[Service]
+ExecStart=/usr/bin/env python3 /home/pi/listenfifo/listenfifo.py
+
